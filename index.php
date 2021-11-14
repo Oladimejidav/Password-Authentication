@@ -1,7 +1,7 @@
 <?php
 include('inc/header.php');
 ?>
-<title>phpzag.com: Demo Password Generator with Strength Checker with jQuery</title> 
+<title>Password Generator with Strength Checker with jQuery</title> 
 <script src="validate.js"></script>
 <?php include('inc/container.php'); ?>
 <style>
